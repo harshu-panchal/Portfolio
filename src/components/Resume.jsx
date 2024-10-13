@@ -17,6 +17,7 @@ const Resume = () => {
       <Skills />
       <Education/>
       </div>
+      <h1>heeloooee</h1>
     </>
   )
 }
