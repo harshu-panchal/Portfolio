@@ -2,7 +2,7 @@ import React from 'react'
 import './Projects.css'
 import legalimg from '/images/legal_doc_generator.png'
 import picflip from '/images/pic_flip_card.png'
-import stdntrec from "/images/student_record_management.png"
+import stdntrec from '/images/student_record_management.png'
 
 
 const Projects = () => {
