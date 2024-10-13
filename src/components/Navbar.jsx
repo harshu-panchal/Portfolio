@@ -1,7 +1,7 @@
 import React from 'react'
 import { NavLink } from 'react-router-dom'
 import './Navbar.css'
-import snow from '/public/images/snowflake.png'
+import snow from '/images/snowflake.png'
 
 
 const Navbar = () => {
