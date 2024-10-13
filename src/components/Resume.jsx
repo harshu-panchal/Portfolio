@@ -3,7 +3,7 @@ import './Resume.css'
 import Workexperience from './Workexperience'
 import Skills from './Skills'
 import Education from './Education'
-import pdf from "/images/HARSHVARDHAN_PANCHAL_resume.pdf"
+import pdf from "./images/HARSHVARDHAN_PANCHAL_resume.pdf"
 
 const Resume = () => {
   return (
